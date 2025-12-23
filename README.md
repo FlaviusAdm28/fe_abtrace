@@ -30,9 +30,9 @@ npm install cypress
 npx cypress open
 ```
 
-## IMPORTANT
-A class bold sample de teste é: cypress/e2e/sampleBoldTest.cy.js
-
+## IMPORTANT (CONFIGURED BROWSER ELECTRON)
+- DEVE USAR APENAS O BROWSER ELECTRON
+- A class bold sample de teste é: cypress/e2e/sampleBoldTest.cy.js
 - Todos os testes podem receber data configuravel se desejado atravez dos respetivos métodos.
 - Nota: alguns testes validam steps de testes anteriores logo deve ser tido em consideração
 - O metodo "beforeEach" não deve ser alterado
