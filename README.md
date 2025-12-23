@@ -1,4 +1,4 @@
-# Cypress End-to-End Testing Project
+# Cypress End-to-End ABTRACE TEST Project
 
 Este projeto utiliza **Cypress** para testes end-to-end (E2E) do front-end da aplicação.
 
