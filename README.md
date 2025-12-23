@@ -21,6 +21,8 @@ Clone o repositório e instale as dependências:
 npm install
 
 yarn install
+
+npm install cypress
 ```
 
 ## To Run
